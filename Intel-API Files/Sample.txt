@@ -1,0 +1,1 @@
+To extract text from a file and convert it into speech, you can use a combination of libraries in Python. We'll use the pyttsx3 library to convert text to speech and the open() function to read the text from a file. Make sure you have the pyttsx3 library installed. If not, you can install it using the following command:
