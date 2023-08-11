@@ -68,3 +68,13 @@ Intel® oneAPI Deep Neural Network Library (oneDNN) is an open-source performanc
 8. Text Analytics
 
 9. TTS (Text-to-Speech Conversion)
+
+## Estimated Cost
+
+Estimated cost:
+
+Google Web Hosting Pricing — Starting at $49.00 / Month
+
+ChatGPT API pricing - Starting at $20/Month
+
+Site owners can expect to pay roughly $50 per month for Google's most basic cloud server, which comes with 2 vCPUs and 8GB of memory.
