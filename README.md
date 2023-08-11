@@ -24,4 +24,21 @@ The task of the teacher here is to upload content here and they just have to men
 A web app profile is created. It contains individual profiles for each teacher. The profile is unlocked by the teacher's voice using the voice recognition model. After entering the profile, the teacher has the option to upload the prepared presentation for the upcoming lecture on which they have planned to take a leave. Once the ppt is uploaded, the slides are fetched using nltk package in Python. Then using the chatGPT API, explanations are fetched and appended into a .docx file.
 This document is used for generating the final audio output using text to speech conversion model.
 
+## What we Offer
+1. Usage of user's voice for an encryption
+
+2. Text-to-speech conversion using personalized voice 
+
+3.Batch processing for converting bullet into the paragraphs
+
+4.Conversion will be according to specific time duration
+
+## Features
+
+1.User can log in and register
+2. Document/audio files can be uploaded
+3. Convert the bullets into paragraphs
+4. Paragraphs can be converted according to time duration
+5. User can logout
+
 
