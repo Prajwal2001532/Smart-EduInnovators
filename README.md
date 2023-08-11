@@ -81,4 +81,5 @@ Site owners can expect to pay roughly $50 per month for Google's most basic clou
 
 ## Screenshots:
 
+![alt_text](https://github.com/Prajwal2001532/Smart-EduInnovators/blob/main/image-2%20md.png)
 
