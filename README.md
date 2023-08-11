@@ -29,16 +29,20 @@ This document is used for generating the final audio output using text to speech
 
 2. Text-to-speech conversion using personalized voice 
 
-3.Batch processing for converting bullet into the paragraphs
+3. Batch processing for converting bullet into the paragraphs
 
-4.Conversion will be according to specific time duration
+4. Conversion will be according to specific time duration
 
 ## Features
 
-1.User can log in and register
+1. User can log in and register
+
 2. Document/audio files can be uploaded
+  
 3. Convert the bullets into paragraphs
+  
 4. Paragraphs can be converted according to time duration
+
 5. User can logout
 
 
