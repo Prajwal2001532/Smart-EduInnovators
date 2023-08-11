@@ -21,7 +21,7 @@ The task of the teacher here is to upload content here and they just have to men
 ![alt_text](https://github.com/Prajwal2001532/Smart-EduInnovators/blob/main/Achitecture%20Diagram%20-%20EduInnovators%20(1).png)
 
 ## Methodology
-A web app profile is created. It contains individual profiles for each teacher. The profile is unlocked by the teacher's voice using the voice recognition model. After entering the profile, the teacher has the option to upload the prepared presentation for the upcoming lecture on which they have planned to take a leave. Once the ppt is uploaded, the slides are fetched using the nltk package in Python. Then using the chatGPT API, explanations are fetched and appended into a .docx file.
+A web app profile is created. It contains individual profiles for each teacher. The profile is unlocked by the teacher's voice using the voice recognition model. After entering the profile, the teacher has the option to upload the prepared presentation for the upcoming lecture on which they have planned to take a leave. Once the ppt is uploaded, the tile of the slides are fetched using the nltk package in Python. Then using the chatGPT API, explanations are fetched for those titles and appended into a .docx file.
 This document generates the final audio output using the text-to-speech conversion model.
 
 ## What we Offer
