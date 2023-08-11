@@ -49,4 +49,14 @@ This document generates the final audio output using the text-to-speech conversi
 
 Intel® oneAPI Deep Neural Network Library (oneDNN) is an open-source performance library for deep learning applications. The library includes basic building blocks for neural networks optimized for Intel Architecture Processors and Intel Processor Graphics. It helps in increasing the application performance on Intel Architecture processors. It is used for voice training.
 
+## Technologies used
 
+Machine Learning
+HTML
+CSS
+BootStrap
+Neural Network
+JavaScript
+NodeJS
+Text Analytics
+TTS (Text-to-Speech Conversion)
