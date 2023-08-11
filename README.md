@@ -16,3 +16,6 @@ Batch processing: implement the ability to process a large number of texts in on
 Online/offline mode: offer both online and offline modes.
 
 The task of the teacher here is to upload content here and they just have to mention their time duration here, so it will explain the whole content for that duration.
+
+## Architecture Design
+![alt_text](https://github.com/Prajwal2001532/Smart-EduInnovators/blob/main/Achitecture%20Diagram%20-%20EduInnovators%20(1).png)
