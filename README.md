@@ -45,4 +45,7 @@ This document is used for generating the final audio output using text to speech
 
 5. User can logout
 
+## oneAPI Libraries used
+
+
 
