@@ -51,12 +51,20 @@ Intel® oneAPI Deep Neural Network Library (oneDNN) is an open-source performanc
 
 ## Technologies used
 
-Machine Learning
-HTML
-CSS
-BootStrap
-Neural Network
-JavaScript
-NodeJS
-Text Analytics
-TTS (Text-to-Speech Conversion)
+1. Machine Learning
+
+2. HTML
+
+3. CSS
+
+4. BootStrap
+
+5. Neural Network
+
+6. JavaScript
+
+7. NodeJS
+
+8. Text Analytics
+
+9. TTS (Text-to-Speech Conversion)
