@@ -1,7 +1,7 @@
 # Smart-EduInnovators
 <p align="center">
   <img src="https://github.com/Prajwal2001532/Smart-EduInnovators/blob/main/eduinnovaors%20logo.png" width="400" alt="Image 1">
-  <img src="image_url_2" width="400" alt="Image 2">
+  <img src="https://github.com/Prajwal2001532/Smart-EduInnovators/blob/main/oneapi%20logo.jpg" width="400" alt="Image 2">
 </p>
 
 
